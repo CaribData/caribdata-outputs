@@ -2,158 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/10-origins/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/20-idb-award/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/30-philosophy/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/40-objectives/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/50-op-overview/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/60-UWI/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/70-beneficiaries/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/80-team/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/90-operations/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/00_Overview/60-operations/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/00-c1-overview/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/10-assessment/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/20-data-tools/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/30-redcap/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/40-redcap-training/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/45-redcap_support/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/45-redcap-support/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/01_C1_Infrastructure/50-strategies/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/02_C2_Storytelling/00-c2-overview/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/02_C2_Storytelling/10-articles/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/02_C2_Storytelling/20-storytelling/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/02_C2_Storytelling/25-storytelling-infrastructure/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/02_C2_Storytelling/30-training/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/02_C2_Storytelling/40-datathon/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/03_C3_Policies_Guidelines/00_c3_overview/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/02_C2_Storytelling/50-articles/</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/03_C3_Policies_Guidelines/00-c3-overview/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/03_C3_Policies_Guidelines/10-policy-review/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/03_C3_Policies_Guidelines/20-guides/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/00-overview/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/10-governance/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/10-reporting/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/20-committee/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/20-marketing/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/30-weekly/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/30-evaluation/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/40-proj-manager/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/05_Other_Outreach/00-reach-overview/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/50-ra/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/05_Other_Outreach/10-reach-talks/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/60-IDB-reporting/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/05_Other_Outreach/20-reach-articles/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/04_C4_Coordination/70-evaluation/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/05A_Other_Outreach/00-reach-overview/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/05A_Other_Outreach/10-reach-talks/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/05A_Other_Outreach/20-reach-articles/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/05_Sustainability/00-sus-overview/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/05_Sustainability/10-sus-goals/</loc>
-         <lastmod>2025-07-15</lastmod>
-    </url>
-    <url>
-         <loc>https://ianhambleton.github.io/caribdata-outputs/05_Sustainability/20-sus-plan/</loc>
-         <lastmod>2025-07-15</lastmod>
+         <loc>https://ianhambleton.github.io/caribdata-outputs/06_Sustainability/20-sus-plan/</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
 </urlset>
