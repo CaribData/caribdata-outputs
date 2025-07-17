@@ -5,26 +5,25 @@ hide:
   - toc
 ---
 
-# Welcome to the Barbados National Registry (BNR)
+# Welcome to the CaribData Document Repository
 
-## About this Site
+## About our Site
 
-This site hosts documentation related to the 2025 BNR “refit” project — an initiative to improve the efficiency, automation, and therefore hopefully the sustainability of the BNR data systems.
+Mostly, we use this website to documents the outputs created during Phase 1 of our CaribData project.
 
-## The Barbados National Registry
-The **Barbados National Registry for Chronic Non-Communicable Disease (BNR)** is a national surveillance system operated by the George Alleyne Chronic Disease Research Centre (GA-CDRC) on behalf of the Barbados Ministry of Health and Wellness. Since its establishment in 2008–2010, the BNR has been a unique and pioneering initiative—one of the first multi-NCD registries in the Western Hemisphere. It consists of three core components:
+We've divided the core of the site into 4 headings, representing the 4 project components as defined by our project funder, the Inter-American Development Bank.
 
-- **BNR-Stroke** – launched in 2008  
-- **BNR-Heart** – launched in 2009  
-- **BNR-Cancer** – launched in 2010  
+- Component 1: Data Infrastructure
+- Component 2: Data Storytelling
+- Component 3: Data Policies & Guidelines
+- Component 4: Project Coordination  
 
-The BNR collects national data on incident cases of stroke, heart attack (acute myocardial infarction), and cancer. These data inform health system performance, clinical care improvements, public health policies, and research across the Caribbean.
+You can find these sections across the top of each web page. In a first [Overview](00_Overview/10-origins.md) section we cover our origins and objectives, and how we've operated the project. 
 
-### BNR Impact and Recognition
+University projects tend to come and go, impactful for a while, then forgotten. We're determined that this won't be the case with CaribData. We've no magic bullet, but we're putting a lot of effort into understanding and experimenting with project sustainability. We cover this aspect [as a separate section](06_Sustainability/20-sus-plan.md).  
 
-The BNR has:
-- Provided high-quality national incidence and mortality estimates
-- Supported academic outputs and continuing medical education
-- Served as a model surveillance system for other small island states
+Finally - we talk to a lot of people about data, and about CaribData. We've gathered some of our more formal talks, presentations, and so on into a final section that we've called [Other Outreach](05_Other_Outreach/00-reach-overview.md). It's what we've love to do - talk about data!
 
-➡️ To learn more about the goals, structure, and deliverables of the BNR refit project, see the [Project Introduction](00_Intro/bnr-refit-intro.md).
+---
+
+➡️ To learn more about the goals, structure, and deliverables of the CaribData project, begin with the [Project Origins](00_Overview/10-origins.md).

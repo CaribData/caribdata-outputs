@@ -1,0 +1,3 @@
+# Guidelines Overview
+
+This page introduces Component 3 of the CaribData initiative, which focuses on establishing clear, practical, and regionally appropriate data policies and guidelines. The component supports the development of secure and ethical data ecosystems by assessing existing frameworks and creating policy tools that facilitate data sharing, privacy protection, and compliance with international standards like GDPR. This work ensures the long-term usability, accessibility, and trustworthiness of regional data resour...

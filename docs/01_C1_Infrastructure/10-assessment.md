@@ -1,0 +1,3 @@
+# Data Assessments
+
+This page presents the initial assessments conducted under Component 1 of the CaribData initiative, focusing on the existing data infrastructure and capacity within the four beneficiary countries: Belize, Guyana, Jamaica, and Trinidad & Tobago. These diagnostics provided the foundation for all future technical interventions by identifying current capabilities, gaps, and opportunities within national data systems. They offer a detailed view into the state of data governance, access, sharing protocols, sto...

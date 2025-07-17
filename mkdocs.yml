@@ -1,4 +1,6 @@
-site_name: CaribData Outputs Website
+site_name: CaribData Document Repository
+site_description: A repository of documents related to the CaribData project.
+site_author: Ian Hambleton
 
 site_url: https://ianhambleton.github.io/caribdata-outputs/
 repo_url: https://github.com/ianhambleton/caribdata-outputs
@@ -14,11 +16,13 @@ theme:
     - navigation.top
     - toc.follow
     - content.code.copy
+    - content.code.select
+    - content.code.annotate
     - content.action.edit
     - content.tabs.link
   palette:
     scheme: default
-    primary: blue
+    primary: blue grey
     accent: deep orange
   toc:
     integrate: false
@@ -34,19 +38,25 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.tabbed
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.highlight
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
   - attr_list
+  - md_in_html
   - toc:
       permalink: true
       toc_depth: 2
   - pymdownx.emoji:
-      emoji_generator: pymdownx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

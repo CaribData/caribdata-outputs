@@ -1,0 +1,9 @@
+title: (C1) Infrastructure
+nav:
+  - Overview: 00-c1-overview.md 
+  - Data Assessments: 10-assessment.md
+  - Data Tools: 20-data-tools.md
+  - REDCap: 30-redcap.md
+  - REDCap Training: 40-redcap-training.md
+  - RedCap support: 45-redcap-support.md
+  - Sustainability: 50-strategies.md

@@ -1,0 +1,3 @@
+# REDCap Support
+
+This page outlines the ongoing support mechanisms established for REDCap users across the CaribData beneficiary countries. It details the helpdesk protocols, regional peer support network, and technical documentation made available to ensure effective and sustained use of the REDCap platform. The support structure includes onboarding assistance, troubleshooting guidance, and periodic refresher training sessions designed to strengthen data management skills and promote self-sufficiency among project stakeholders. By offering localized support pathways, CaribData reinforces REDCap as a reliable, user-friendly solution for secure data collection and sharing.

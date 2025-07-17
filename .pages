@@ -1,9 +1,11 @@
-# title: BNR Refit Project Manual
+# title: CaribData Outputs
 nav:
   - Home:
-  - 00_Intro/
-  - 01_Workflow/
-  - 02_Data/
-  - 03_Reporting/
-  - 04_Technical/
-  - 05_Training/
+  - 00_Overview/
+  - 01_C1_Infrastructure/
+  - 02_C2_Storytelling/
+  - 03_C3_Policies_Guidelines/
+  - 04_C4_Coordination/
+  - 05_Other_Outreach/  
+  - 06_Sustainability/
+
